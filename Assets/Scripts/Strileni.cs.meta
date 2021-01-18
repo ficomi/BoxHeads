@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aeb73c5ecee877b4990280b5f0885613
+timeCreated: 1452239504
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - kulka_prefab: {instanceID: 0}
+  - kulkaSpawn_prefab: {instanceID: 0}
+  - ammo_counter: {fileID: 2800000, guid: 1c2bbe52591747240901f44771fad3f8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 77600d78fbded7844b7ec8294b92c9eb
+labels:
+- Character
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Axe__Diamond_
+    100002: Back
+    100004: Body
+    100006: Body_Parts
+    100008: Bones
+    100010: Bottom_Teeth
+    100012: Bottom_Teeth_Control
+    100014: Controls
+    100016: Cube
+    100018: Cube_2
+    100020: //RootNode
+    100022: Eyebrows
+    100024: Hand_Controls
+    100026: Head
+    100028: Head_2
+    100030: Head_3
+    100032: Inside_Mouth
+    100034: Joint
+    100036: Joint_2
+    100038: Joint_3
+    100040: Left_Arm
+    100042: Left_Arm_2
+    100044: Left_Arm_Controls
+    100046: Left_Arm_Pole
+    100048: Left_Elbow
+    100050: Left_Eyebrow
+    100052: Left_Foot
+    100054: Left_Foot_Back
+    100056: Left_Foot_Controls
+    100058: Left_Foot_Front
+    100060: Left_Foot_Toe_
+    100062: Left_Hand
+    100064: Left_Knee
+    100066: Left_Leg
+    100068: Left_Leg_2
+    100070: Left_Leg_Pole
+    100072: Left_Pupil
+    100074: Left_Pupil_2
+    100076: Leg_Controls
+    100078: Mouth
+    100080: Neck
+    100082: Neck_2
+    100084: Null
+    100086: Null_2
+    100088: Null_3
+    100090: Pickaxe__Diamond_
+    100092: Pupils
+    100094: Right_Arm
+    100096: Right_Arm_2
+    100098: Right_Arm_Controls
+    100100: Right_Arm_Pole
+    100102: Right_Elbow
+    100104: Right_Eyebrow
+    100106: Right_Foot
+    100108: Right_Foot_Back
+    100110: Right_Foot_Controls
+    100112: Right_Foot_Front
+    100114: Right_Foot_Toe_
+    100116: Right_Hand
+    100118: Right_Knee
+    100120: Right_Leg
+    100122: Right_Leg_2
+    100124: Right_Leg_Pole
+    100126: Right_Pupil
+    100128: Right_Pupil_2
+    100130: Skin
+    100132: Skin_2
+    100134: Skin_3
+    100136: Skin_4
+    100138: Skin_5
+    100140: Sword__Diamond_
+    100142: Teeth_and_Mouth_Control
+    100144: Tongue
+    100146: Tongue_Control
+    100148: Top_Back
+    100150: Top_Teeth
+    100152: Top_Teeth_Control
+    100154: Waste
+    400000: Axe__Diamond_
+    400002: Back
+    400004: Body
+    400006: Body_Parts
+    400008: Bones
+    400010: Bottom_Teeth
+    400012: Bottom_Teeth_Control
+    400014: Controls
+    400016: Cube
+    400018: Cube_2
+    400020: //RootNode
+    400022: Eyebrows
+    400024: Hand_Controls
+    400026: Head
+    400028: Head_2
+    400030: Head_3
+    400032: Inside_Mouth
+    400034: Joint
+    400036: Joint_2
+    400038: Joint_3
+    400040: Left_Arm
+    400042: Left_Arm_2
+    400044: Left_Arm_Controls
+    400046: Left_Arm_Pole
+    400048: Left_Elbow
+    400050: Left_Eyebrow
+    400052: Left_Foot
+    400054: Left_Foot_Back
+    400056: Left_Foot_Controls
+    400058: Left_Foot_Front
+    400060: Left_Foot_Toe_
+    400062: Left_Hand
+    400064: Left_Knee
+    400066: Left_Leg
+    400068: Left_Leg_2
+    400070: Left_Leg_Pole
+    400072: Left_Pupil
+    400074: Left_Pupil_2
+    400076: Leg_Controls
+    400078: Mouth
+    400080: Neck
+    400082: Neck_2
+    400084: Null
+    400086: Null_2
+    400088: Null_3
+    400090: Pickaxe__Diamond_
+    400092: Pupils
+    400094: Right_Arm
+    400096: Right_Arm_2
+    400098: Right_Arm_Controls
+    400100: Right_Arm_Pole
+    400102: Right_Elbow
+    400104: Right_Eyebrow
+    400106: Right_Foot
+    400108: Right_Foot_Back
+    400110: Right_Foot_Controls
+    400112: Right_Foot_Front
+    400114: Right_Foot_Toe_
+    400116: Right_Hand
+    400118: Right_Knee
+    400120: Right_Leg
+    400122: Right_Leg_2
+    400124: Right_Leg_Pole
+    400126: Right_Pupil
+    400128: Right_Pupil_2
+    400130: Skin
+    400132: Skin_2
+    400134: Skin_3
+    400136: Skin_4
+    400138: Skin_5
+    400140: Sword__Diamond_
+    400142: Teeth_and_Mouth_Control
+    400144: Tongue
+    400146: Tongue_Control
+    400148: Top_Back
+    400150: Top_Teeth
+    400152: Top_Teeth_Control
+    400154: Waste
+    2300000: Axe__Diamond_
+    2300002: Bottom_Teeth_Control
+    2300004: Cube
+    2300006: Cube_2
+    2300008: Head_3
+    2300010: Inside_Mouth
+    2300012: Left_Arm_Controls
+    2300014: Left_Eyebrow
+    2300016: Left_Foot_Controls
+    2300018: Left_Pupil_2
+    2300020: Pickaxe__Diamond_
+    2300022: Right_Arm_Controls
+    2300024: Right_Eyebrow
+    2300026: Right_Foot_Controls
+    2300028: Right_Pupil_2
+    2300030: Sword__Diamond_
+    2300032: Tongue_Control
+    2300034: Top_Teeth_Control
+    3300000: Axe__Diamond_
+    3300002: Bottom_Teeth_Control
+    3300004: Cube
+    3300006: Cube_2
+    3300008: Head_3
+    3300010: Inside_Mouth
+    3300012: Left_Arm_Controls
+    3300014: Left_Eyebrow
+    3300016: Left_Foot_Controls
+    3300018: Left_Pupil_2
+    3300020: Pickaxe__Diamond_
+    3300022: Right_Arm_Controls
+    3300024: Right_Eyebrow
+    3300026: Right_Foot_Controls
+    3300028: Right_Pupil_2
+    3300030: Sword__Diamond_
+    3300032: Tongue_Control
+    3300034: Top_Teeth_Control
+    4300000: Right_Arm_Controls
+    4300002: Left_Arm_Controls
+    4300004: Right_Foot_Controls
+    4300006: Left_Foot_Controls
+    4300008: Sword__Diamond_
+    4300010: Pickaxe__Diamond_
+    4300012: Axe__Diamond_
+    4300014: Tongue
+    4300016: Top_Teeth
+    4300018: Bottom_Teeth
+    4300020: Inside_Mouth
+    4300022: Tongue_Control
+    4300024: Top_Teeth_Control
+    4300026: Cube
+    4300028: Bottom_Teeth_Control
+    4300030: Cube_2
+    4300032: Right_Eyebrow
+    4300034: Left_Eyebrow
+    4300036: Right_Pupil_2
+    4300038: Left_Pupil_2
+    4300040: Head_3
+    4300042: Body
+    4300044: Right_Arm_2
+    4300046: Left_Arm_2
+    4300048: Right_Leg_2
+    4300050: Left_Leg_2
+    7400000: chozeni
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    13700002: Bottom_Teeth
+    13700004: Left_Arm_2
+    13700006: Left_Leg_2
+    13700008: Right_Arm_2
+    13700010: Right_Leg_2
+    13700012: Tongue
+    13700014: Top_Teeth
+    13700016: Head_3
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Char
+    second: {fileID: 2100000, guid: 3775837331e5a9f4ab89b93bc21cacf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes
+    second: {fileID: 2100000, guid: 5077ae29de5145048b61b06f7f2ca879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair
+    second: {fileID: 2100000, guid: d1eb0fd51f740b244893cd9454c5eae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth
+    second: {fileID: 2100000, guid: dab814837b493614b9e67d406da60ae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b05995e8aeef4bf4fad8d83e17a634b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupils
+    second: {fileID: 2100000, guid: 8a59ac37afd814949823276ff7af749b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth
+    second: {fileID: 2100000, guid: 9cd46a853b1552d4abd9bfc9769530bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tongue
+    second: {fileID: 2100000, guid: a616cee95c409d74b9ce13bef74006f0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: chozeni
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body_Parts
+        weight: 1
+      - path: Body_Parts/Body
+        weight: 1
+      - path: Body_Parts/Body/Skin
+        weight: 1
+      - path: Body_Parts/Head_2
+        weight: 1
+      - path: Body_Parts/Head_2/Eyebrows
+        weight: 1
+      - path: Body_Parts/Head_2/Eyebrows/Left_Eyebrow
+        weight: 1
+      - path: Body_Parts/Head_2/Eyebrows/Right_Eyebrow
+        weight: 1
+      - path: Body_Parts/Head_2/Head_3
+        weight: 1
+      - path: Body_Parts/Head_2/Mouth
+        weight: 1
+      - path: Body_Parts/Head_2/Mouth/Bottom_Teeth
+        weight: 1
+      - path: Body_Parts/Head_2/Mouth/Bottom_Teeth/Null_3
+        weight: 1
+      - path: Body_Parts/Head_2/Mouth/Inside_Mouth
+        weight: 1
+      - path: Body_Parts/Head_2/Mouth/Tongue
+        weight: 1
+      - path: Body_Parts/Head_2/Mouth/Tongue/Null
+        weight: 1
+      - path: Body_Parts/Head_2/Mouth/Top_Teeth
+        weight: 1
+      - path: Body_Parts/Head_2/Mouth/Top_Teeth/Null_2
+        weight: 1
+      - path: Body_Parts/Head_2/Pupils
+        weight: 1
+      - path: Body_Parts/Head_2/Pupils/Left_Pupil
+        weight: 1
+      - path: Body_Parts/Head_2/Pupils/Left_Pupil/Left_Pupil_2
+        weight: 1
+      - path: Body_Parts/Head_2/Pupils/Right_Pupil
+        weight: 1
+      - path: Body_Parts/Head_2/Pupils/Right_Pupil/Right_Pupil_2
+        weight: 1
+      - path: Body_Parts/Head_2/Teeth_and_Mouth_Control
+        weight: 1
+      - path: Body_Parts/Head_2/Teeth_and_Mouth_Control/Bottom_Teeth_Control
+        weight: 1
+      - path: Body_Parts/Head_2/Teeth_and_Mouth_Control/Bottom_Teeth_Control/Cube_2
+        weight: 1
+      - path: Body_Parts/Head_2/Teeth_and_Mouth_Control/Bottom_Teeth_Control/Cube_2/Joint_3
+        weight: 1
+      - path: Body_Parts/Head_2/Teeth_and_Mouth_Control/Tongue_Control
+        weight: 1
+      - path: Body_Parts/Head_2/Teeth_and_Mouth_Control/Tongue_Control/Joint
+        weight: 1
+      - path: Body_Parts/Head_2/Teeth_and_Mouth_Control/Top_Teeth_Control
+        weight: 1
+      - path: Body_Parts/Head_2/Teeth_and_Mouth_Control/Top_Teeth_Control/Cube
+        weight: 1
+      - path: Body_Parts/Head_2/Teeth_and_Mouth_Control/Top_Teeth_Control/Cube/Joint_2
+        weight: 1
+      - path: Body_Parts/Left_Arm_2
+        weight: 1
+      - path: Body_Parts/Left_Arm_2/Skin_3
+        weight: 1
+      - path: Body_Parts/Left_Leg_2
+        weight: 1
+      - path: Body_Parts/Left_Leg_2/Skin_5
+        weight: 1
+      - path: Body_Parts/Right_Arm_2
+        weight: 1
+      - path: Body_Parts/Right_Arm_2/Skin_2
+        weight: 1
+      - path: Body_Parts/Right_Leg_2
+        weight: 1
+      - path: Body_Parts/Right_Leg_2/Skin_4
+        weight: 1
+      - path: Bones
+        weight: 1
+      - path: Bones/Waste
+        weight: 1
+      - path: Bones/Waste/Back
+        weight: 1
+      - path: Bones/Waste/Back/Top_Back
+        weight: 1
+      - path: Bones/Waste/Back/Top_Back/Left_Arm
+        weight: 1
+      - path: Bones/Waste/Back/Top_Back/Left_Arm/Left_Elbow
+        weight: 1
+      - path: Bones/Waste/Back/Top_Back/Left_Arm/Left_Elbow/Left_Hand
+        weight: 1
+      - path: Bones/Waste/Back/Top_Back/Neck
+        weight: 1
+      - path: Bones/Waste/Back/Top_Back/Neck/Neck_2
+        weight: 1
+      - path: Bones/Waste/Back/Top_Back/Neck/Neck_2/Head
+        weight: 1
+      - path: Bones/Waste/Back/Top_Back/Right_Arm
+        weight: 1
+      - path: Bones/Waste/Back/Top_Back/Right_Arm/Right_Elbow
+        weight: 1
+      - path: Bones/Waste/Back/Top_Back/Right_Arm/Right_Elbow/Right_Hand
+        weight: 1
+      - path: Bones/Waste/Left_Leg
+        weight: 1
+      - path: Bones/Waste/Left_Leg/Left_Knee
+        weight: 1
+      - path: Bones/Waste/Left_Leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Bones/Waste/Left_Leg/Left_Knee/Left_Foot/Left_Foot_Toe_
+        weight: 1
+      - path: Bones/Waste/Left_Leg/Left_Knee/Left_Foot/Left_Foot_Toe_/Left_Foot_Back
+        weight: 1
+      - path: Bones/Waste/Left_Leg/Left_Knee/Left_Foot/Left_Foot_Toe_/Left_Foot_Front
+        weight: 1
+      - path: Bones/Waste/Right_Leg
+        weight: 1
+      - path: Bones/Waste/Right_Leg/Right_Knee
+        weight: 1
+      - path: Bones/Waste/Right_Leg/Right_Knee/Right_Foot
+        weight: 1
+      - path: Bones/Waste/Right_Leg/Right_Knee/Right_Foot/Right_Foot_Toe_
+        weight: 1
+      - path: Bones/Waste/Right_Leg/Right_Knee/Right_Foot/Right_Foot_Toe_/Right_Foot_Back
+        weight: 1
+      - path: Bones/Waste/Right_Leg/Right_Knee/Right_Foot/Right_Foot_Toe_/Right_Foot_Front
+        weight: 1
+      - path: Controls
+        weight: 1
+      - path: Controls/Hand_Controls
+        weight: 1
+      - path: Controls/Hand_Controls/Left_Arm_Controls
+        weight: 1
+      - path: Controls/Hand_Controls/Left_Arm_Controls/Left_Arm_Pole
+        weight: 1
+      - path: Controls/Hand_Controls/Right_Arm_Controls
+        weight: 1
+      - path: Controls/Hand_Controls/Right_Arm_Controls/Right_Arm_Pole
+        weight: 1
+      - path: Controls/Leg_Controls
+        weight: 1
+      - path: Controls/Leg_Controls/Left_Foot_Controls
+        weight: 1
+      - path: Controls/Leg_Controls/Left_Foot_Controls/Left_Leg_Pole
+        weight: 1
+      - path: Controls/Leg_Controls/Right_Foot_Controls
+        weight: 1
+      - path: Controls/Leg_Controls/Right_Foot_Controls/Right_Leg_Pole
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game>
+  <Player_score>
+    <difficulty>Eazy</difficulty>
+    <score>10</score>
+  </Player_score>
+  <Player_score>
+    <difficulty>Eazy</difficulty>
+    <score>10</score>
+  </Player_score>
+  <Player_score>
+    <difficulty>Eazy</difficulty>
+    <score>0</score>
+  </Player_score>
+  <Player_score>
+    <difficulty>Hard</difficulty>
+    <score>20</score>
+  </Player_score>
+  <Player_score>
+    <difficulty>Medium</difficulty>
+    <score>30</score>
+  </Player_score>
+</game>

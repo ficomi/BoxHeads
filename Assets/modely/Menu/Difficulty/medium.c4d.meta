@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 34e6ec340bca7aa4e8674094b60944a2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1
+    100002: Cap_1
+    100004: Cap_1_2
+    100006: Cap_1_3
+    100008: Cap_1_4
+    100010: Cap_1_5
+    100012: Cap_1_6
+    100014: Cap_2
+    100016: Cap_2_2
+    100018: Cap_2_3
+    100020: Cap_2_4
+    100022: Cap_2_5
+    100024: Cap_2_6
+    100026: Cube
+    100028: D
+    100030: E
+    100032: I
+    100034: M
+    100036: M_2
+    100038: MEDIUM
+    100040: //RootNode
+    100042: MoText
+    100044: U
+    400000: 1
+    400002: Cap_1
+    400004: Cap_1_2
+    400006: Cap_1_3
+    400008: Cap_1_4
+    400010: Cap_1_5
+    400012: Cap_1_6
+    400014: Cap_2
+    400016: Cap_2_2
+    400018: Cap_2_3
+    400020: Cap_2_4
+    400022: Cap_2_5
+    400024: Cap_2_6
+    400026: Cube
+    400028: D
+    400030: E
+    400032: I
+    400034: M
+    400036: M_2
+    400038: MEDIUM
+    400040: //RootNode
+    400042: MoText
+    400044: U
+    2300000: Cap_1
+    2300002: Cap_1_2
+    2300004: Cap_1_3
+    2300006: Cap_1_4
+    2300008: Cap_1_5
+    2300010: Cap_1_6
+    2300012: Cap_2
+    2300014: Cap_2_2
+    2300016: Cap_2_3
+    2300018: Cap_2_4
+    2300020: Cap_2_5
+    2300022: Cap_2_6
+    2300024: Cube
+    2300026: D
+    2300028: E
+    2300030: I
+    2300032: M
+    2300034: M_2
+    2300036: U
+    3300000: Cap_1
+    3300002: Cap_1_2
+    3300004: Cap_1_3
+    3300006: Cap_1_4
+    3300008: Cap_1_5
+    3300010: Cap_1_6
+    3300012: Cap_2
+    3300014: Cap_2_2
+    3300016: Cap_2_3
+    3300018: Cap_2_4
+    3300020: Cap_2_5
+    3300022: Cap_2_6
+    3300024: Cube
+    3300026: D
+    3300028: E
+    3300030: I
+    3300032: M
+    3300034: M_2
+    3300036: U
+    4300000: M
+    4300002: Cap_1
+    4300004: Cap_2
+    4300006: E
+    4300008: Cap_1_2
+    4300010: Cap_2_2
+    4300012: D
+    4300014: Cap_1_3
+    4300016: Cap_2_3
+    4300018: I
+    4300020: Cap_1_4
+    4300022: Cap_2_4
+    4300024: U
+    4300026: Cap_1_5
+    4300028: Cap_2_5
+    4300030: M_2
+    4300032: Cap_1_6
+    4300034: Cap_2_6
+    4300036: Cube
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

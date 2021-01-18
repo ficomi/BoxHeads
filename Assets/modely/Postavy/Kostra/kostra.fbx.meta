@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 7fc9ff5e4bc975345a92c9fb59368f89
+timeCreated: 1523740063
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LeftAnkleJoint
+    100004: LeftClavicleJoint
+    100006: LeftElbowJoint
+    100008: LeftForearmTwistJoint
+    100010: LeftHipJoint
+    100012: LeftKneeJoint
+    100014: LeftMidFootJoint
+    100016: LeftShoulderJoint
+    100018: LeftToesJoint
+    100020: LeftWristJoint
+    100022: LowerNeckJoint
+    100024: LowerSpineJoint
+    100026: MiddleSpineJoint
+    100028: RightAnkleJoint
+    100030: RightClavicleJoint
+    100032: RightElbowJoint
+    100034: RightForearmTwistJoint
+    100036: RightHipJoint
+    100038: RightKneeJoint
+    100040: RightMidFootJoint
+    100042: RightShoulderJoint
+    100044: RightToesJoint
+    100046: RightWristJoint
+    100048: root
+    100050: Site
+    100052: Site_2
+    100054: Site_3
+    100056: UpperNeckJoint
+    100058: UpperSpineJoint
+    400000: //RootNode
+    400002: LeftAnkleJoint
+    400004: LeftClavicleJoint
+    400006: LeftElbowJoint
+    400008: LeftForearmTwistJoint
+    400010: LeftHipJoint
+    400012: LeftKneeJoint
+    400014: LeftMidFootJoint
+    400016: LeftShoulderJoint
+    400018: LeftToesJoint
+    400020: LeftWristJoint
+    400022: LowerNeckJoint
+    400024: LowerSpineJoint
+    400026: MiddleSpineJoint
+    400028: RightAnkleJoint
+    400030: RightClavicleJoint
+    400032: RightElbowJoint
+    400034: RightForearmTwistJoint
+    400036: RightHipJoint
+    400038: RightKneeJoint
+    400040: RightMidFootJoint
+    400042: RightShoulderJoint
+    400044: RightToesJoint
+    400046: RightWristJoint
+    400048: root
+    400050: Site
+    400052: Site_2
+    400054: Site_3
+    400056: UpperNeckJoint
+    400058: UpperSpineJoint
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

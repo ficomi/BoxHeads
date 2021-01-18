@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 56fc4665cfd34f348b25a78bb28e985b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AK47
+    100002: //RootNode
+    100004: LeftAnkleJoint
+    100006: LeftClavicleJoint
+    100008: LeftElbowJoint
+    100010: LeftForearmTwistJoint
+    100012: LeftHipJoint
+    100014: LeftKneeJoint
+    100016: LeftShoulderJoint
+    100018: LeftWristJoint
+    100020: LowerNeckJoint
+    100022: LowerSpineJoint
+    100024: MiddleSpineJoint
+    100026: Null
+    100028: RightAnkleJoint
+    100030: RightClavicleJoint
+    100032: RightElbowJoint
+    100034: RightForearmTwistJoint
+    100036: RightHipJoint
+    100038: RightKneeJoint
+    100040: RightShoulderJoint
+    100042: RightWristJoint
+    100044: root
+    100046: Site
+    100048: Skeleton
+    100050: UpperNeckJoint
+    100052: UpperSpineJoint
+    400000: AK47
+    400002: //RootNode
+    400004: LeftAnkleJoint
+    400006: LeftClavicleJoint
+    400008: LeftElbowJoint
+    400010: LeftForearmTwistJoint
+    400012: LeftHipJoint
+    400014: LeftKneeJoint
+    400016: LeftShoulderJoint
+    400018: LeftWristJoint
+    400020: LowerNeckJoint
+    400022: LowerSpineJoint
+    400024: MiddleSpineJoint
+    400026: Null
+    400028: RightAnkleJoint
+    400030: RightClavicleJoint
+    400032: RightElbowJoint
+    400034: RightForearmTwistJoint
+    400036: RightHipJoint
+    400038: RightKneeJoint
+    400040: RightShoulderJoint
+    400042: RightWristJoint
+    400044: root
+    400046: Site
+    400048: Skeleton
+    400050: UpperNeckJoint
+    400052: UpperSpineJoint
+    2300000: AK47
+    3300000: AK47
+    4300000: Cube_1
+    4300002: AK47
+    7400000: Shoot
+    9500000: //RootNode
+    13700000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b05995e8aeef4bf4fad8d83e17a634b4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shoot
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Null
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/root
+        weight: 1
+      - path: Skeleton/root/LeftHipJoint
+        weight: 1
+      - path: Skeleton/root/LeftHipJoint/LeftKneeJoint
+        weight: 1
+      - path: Skeleton/root/LeftHipJoint/LeftKneeJoint/LeftAnkleJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/LeftClavicleJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/LeftClavicleJoint/LeftShoulderJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/LeftClavicleJoint/LeftShoulderJoint/LeftElbowJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/LeftClavicleJoint/LeftShoulderJoint/LeftElbowJoint/LeftForearmTwistJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/LeftClavicleJoint/LeftShoulderJoint/LeftElbowJoint/LeftForearmTwistJoint/LeftWristJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/LowerNeckJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/LowerNeckJoint/UpperNeckJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/LowerNeckJoint/UpperNeckJoint/Site
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/RightClavicleJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/RightClavicleJoint/RightShoulderJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/RightClavicleJoint/RightShoulderJoint/RightElbowJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/RightClavicleJoint/RightShoulderJoint/RightElbowJoint/RightForearmTwistJoint
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/RightClavicleJoint/RightShoulderJoint/RightElbowJoint/RightForearmTwistJoint/AK47
+        weight: 1
+      - path: Skeleton/root/LowerSpineJoint/MiddleSpineJoint/UpperSpineJoint/RightClavicleJoint/RightShoulderJoint/RightElbowJoint/RightForearmTwistJoint/RightWristJoint
+        weight: 1
+      - path: Skeleton/root/RightHipJoint
+        weight: 1
+      - path: Skeleton/root/RightHipJoint/RightKneeJoint
+        weight: 1
+      - path: Skeleton/root/RightHipJoint/RightKneeJoint/RightAnkleJoint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

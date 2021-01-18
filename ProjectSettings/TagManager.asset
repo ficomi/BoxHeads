@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - nepritel_eazy
+  - buttonChangeColour
+  - Target_Camera1
+  - Target_Camera2
+  - custom_player
+  - Target_Camera4
+  - Target_Camera3
+  - nepritel_medium
+  - nepritel_hard
+  - Houselights
+  - Roof1
+  - Roof2
+  - spawn_enemy
+  - StreetLights
+  - HouseLights
+  - BuildCamera
+  - Roof
+  - F1
+  - F2
+  - SecondCamera
+  - PlayerAnimation
+  - water
+  - Statue
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - other
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

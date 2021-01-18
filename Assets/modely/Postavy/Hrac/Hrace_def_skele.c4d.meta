@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: cd83064474968ac4d946a2fe1d081943
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bricho
+    100002: Cube
+    100004: Cube_1
+    100006: Cube_1_2
+    100008: Cube_1_3
+    100010: Cube_2
+    100012: Cube_2_2
+    100014: Cube_3
+    100016: Hlava
+    100018: //RootNode
+    100020: LeftAnkleJoint
+    100022: LeftClavicleJoint
+    100024: LeftElbowJoint
+    100026: LeftForearmTwistJoint
+    100028: LeftHipJoint
+    100030: LeftKneeJoint
+    100032: LeftShoulderJoint
+    100034: LeftWristJoint
+    100036: LowerNeckJoint
+    100038: LowerSpineJoint
+    100040: MiddleSpineJoint
+    100042: nohy
+    100044: RightAnkleJoint
+    100046: RightClavicleJoint
+    100048: RightElbowJoint
+    100050: RightForearmTwistJoint
+    100052: RightHipJoint
+    100054: RightKneeJoint
+    100056: RightShoulderJoint
+    100058: RightWristJoint
+    100060: root
+    100062: ruce
+    100064: Site
+    100066: Skeleton
+    100068: telo
+    100070: UpperNeckJoint
+    100072: UpperSpineJoint
+    400000: bricho
+    400002: Cube
+    400004: Cube_1
+    400006: Cube_1_2
+    400008: Cube_1_3
+    400010: Cube_2
+    400012: Cube_2_2
+    400014: Cube_3
+    400016: Hlava
+    400018: //RootNode
+    400020: LeftAnkleJoint
+    400022: LeftClavicleJoint
+    400024: LeftElbowJoint
+    400026: LeftForearmTwistJoint
+    400028: LeftHipJoint
+    400030: LeftKneeJoint
+    400032: LeftShoulderJoint
+    400034: LeftWristJoint
+    400036: LowerNeckJoint
+    400038: LowerSpineJoint
+    400040: MiddleSpineJoint
+    400042: nohy
+    400044: RightAnkleJoint
+    400046: RightClavicleJoint
+    400048: RightElbowJoint
+    400050: RightForearmTwistJoint
+    400052: RightHipJoint
+    400054: RightKneeJoint
+    400056: RightShoulderJoint
+    400058: RightWristJoint
+    400060: root
+    400062: ruce
+    400064: Site
+    400066: Skeleton
+    400068: telo
+    400070: UpperNeckJoint
+    400072: UpperSpineJoint
+    2300000: Cube
+    2300002: Cube_1
+    2300004: Cube_1_2
+    2300006: Cube_1_3
+    2300008: Cube_2
+    2300010: Cube_2_2
+    2300012: Cube_3
+    2300014: Hlava
+    3300000: Cube
+    3300002: Cube_1
+    3300004: Cube_1_2
+    3300006: Cube_1_3
+    3300008: Cube_2
+    3300010: Cube_2_2
+    3300012: Cube_3
+    3300014: Hlava
+    4300000: Hlava
+    4300002: Cube_1
+    4300004: Cube
+    4300006: Cube_2
+    4300008: Cube_1_2
+    4300010: Cube_2_2
+    4300012: Cube_1_3
+    4300014: Cube_3
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
